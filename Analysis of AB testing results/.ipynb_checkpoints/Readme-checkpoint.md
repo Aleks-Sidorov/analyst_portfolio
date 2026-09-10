@@ -1,6 +1,8 @@
 **Открыть в формате:<br>
 [IPYNB](https://github.com/Aleks-Sidorov/analyst_portfolio/blob/main/Analysis%20of%20AB%20testing%20results/Анализ%20результатов%20AB%20тестирования.ipynb)<br>[HTML](https://htmlpreview.github.io/?https://github.com/Aleks-Sidorov/analyst_portfolio/blob/main/Analysis%20of%20AB%20testing%20results/Analysis%20of%20AB%20testing%20results.html)**
 
+---
+
 ## О проекте
 
 Исследовательский проект по анализу результатов A/B-тестирования упрощённого интерфейса.
